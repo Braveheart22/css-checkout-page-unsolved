@@ -50,7 +50,7 @@ main {
   width: 100%;
      max-width: 964px;
   margin: 0 auto;
-  display; flex;
+  display: flex;
    gap: 30px;
 }
 
@@ -61,7 +61,7 @@ i {
 
 /* 🔴 CSS Syntax Error here 👇 */
 .box {
-  background: linear-gradient(#17192c, #1a1c30),
+  background: linear-gradient(#17192c, #1a1c30);
   border: 1px solid #2c3044;
   padding: 30px;
   width: 100%;
