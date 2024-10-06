@@ -1,3 +1,5 @@
+https://github.com/Braveheart22/css-checkout-page-unsolved
+
 
 When I run the prettier-check, I get the following error. What would I need to do to resolve this?
 
@@ -9,5 +11,3 @@ npm ERR! To see a list of scripts, run:
 npm ERR!   npm run
 
 npm ERR! A complete log of this run can be found in: /home/john/.npm/_logs/2024-10-06T14_30_33_188Z-debug-0.log
-
-john at John-PC in ~/Devslopes projects/css-checkout-page-unsolved (master)
